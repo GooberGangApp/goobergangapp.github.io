@@ -1,3 +1,5 @@
-site_name: GooberGangApp
+site_name: Goober Gang App
+site_description: Official site for the Goober Gang App
+site_url: https://goobergangapp.github.io/
 theme:
   name: material

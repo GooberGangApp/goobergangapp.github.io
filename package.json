@@ -8,6 +8,7 @@
     "scripts": {
         "serve": "mkdocs serve",
         "build": "mkdocs build",
-        "compile:requirements": "pip-compile docs/requirements.in"
+        "compile:requirements": "pip-compile docs/requirements.in",
+        "deploy": "mkdocs gh-deploy"
     }
 }
